@@ -3,3 +3,8 @@ obj
 .vs
 .vscode
 .idea
+
+node_modules/
+package-lock.json
+README.md
+.gitignore
